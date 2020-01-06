@@ -34,7 +34,7 @@ export default class App extends React.Component {
 
       });
     }, 
-    3000);
+    1000*60*15);
   }
 
   render () {

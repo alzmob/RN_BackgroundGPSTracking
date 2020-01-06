@@ -161,7 +161,6 @@
 				FF1195BAB210132213C8A862 /* Pods-BackgroundGPSTests.debug.xcconfig */,
 				533F8F3E3EFD346DA6C71A69 /* Pods-BackgroundGPSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -308,6 +307,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
